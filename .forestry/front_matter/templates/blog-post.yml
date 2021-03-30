@@ -16,3 +16,5 @@ fields:
     schema:
       format: markdown
   label: Text
+pages:
+- content/posts/ipv1-v2-and-v3.md
