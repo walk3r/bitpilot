@@ -1,0 +1,4 @@
+baseURL = "http://bitpilot.net/"
+languageCode = "en-us"
+title = "BitPilot"
+theme = "bigspring"

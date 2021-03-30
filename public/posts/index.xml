@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on BitPilot</title>
+    <link>http://bitpilot.net/posts/</link>
+    <description>Recent content in Posts on BitPilot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Mar 2021 15:13:46 -0600</lastBuildDate><atom:link href="http://bitpilot.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post</title>
+      <link>http://bitpilot.net/posts/test-post/</link>
+      <pubDate>Tue, 30 Mar 2021 15:13:46 -0600</pubDate>
+      
+      <guid>http://bitpilot.net/posts/test-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

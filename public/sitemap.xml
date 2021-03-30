@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://bitpilot.net/</loc>
+    <lastmod>2021-03-30T15:13:46-06:00</lastmod>
+  </url><url>
+    <loc>http://bitpilot.net/posts/</loc>
+    <lastmod>2021-03-30T15:13:46-06:00</lastmod>
+  </url><url>
+    <loc>http://bitpilot.net/posts/test-post/</loc>
+    <lastmod>2021-03-30T15:13:46-06:00</lastmod>
+  </url><url>
+    <loc>http://bitpilot.net/categories/</loc>
+  </url><url>
+    <loc>http://bitpilot.net/tags/</loc>
+  </url>
+</urlset>
